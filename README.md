@@ -1,0 +1,1 @@
+# script-creating-multiple-files-with-given-template
